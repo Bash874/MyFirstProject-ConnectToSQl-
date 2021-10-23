@@ -1,3 +1,3 @@
-# MyFirstProject-ConnectToSQlUsingJava-
+# MyFirstProject-ConnectToSQL-UsingJava-
 my first repository
 
